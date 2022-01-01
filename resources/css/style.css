@@ -14,6 +14,15 @@ a {
     font-size: 16px;
     text-align: center;
 }
-p{
-    text-align: center;
+
+h2{
+    font-family: Verdana;
+    font-weight: 300;
+    font-size: 42px;
+    font-color: white
+}
+#desc{
+    font-family: Verdana;
+    font-size: 21px;
+    color: gray;
 }
